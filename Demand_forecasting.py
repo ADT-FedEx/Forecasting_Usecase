@@ -28,6 +28,7 @@
  !pip install fbprophet
 
 import pandas as pd # Import Pandas for data manipulation using dataframes
+import pandas as pd # Import Pandas for data manipulation using dataframes
 import numpy as np # Import Numpy for data statistical analysis 
 import matplotlib.pyplot as plt # Import matplotlib for data visualisation
 import random
