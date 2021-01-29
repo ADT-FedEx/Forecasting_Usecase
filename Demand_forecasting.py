@@ -1,8 +1,6 @@
 # Testing for commenting - BG
 # Testing for commenting2 - BG
 
-# Testing for commenting3 - BG
-
 # Databricks notebook source
 # MAGIC %md
 # MAGIC <h1>Table of Contents<span class="tocSkip"></span></h1>
